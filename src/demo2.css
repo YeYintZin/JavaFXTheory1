@@ -1,0 +1,17 @@
+.label {
+   -fx-font-family: cursive;
+   -fx-font-size: 14pt;
+   -fx-font-style: italic;
+   -fx-border-style: dashed;
+   -fx-background-color: yellow;
+}
+
+.button {
+   -fx-color: orange;
+   -fx-font-size: 104pt;
+   -fx-font-weight: 900;
+}
+
+.root {
+   -fx-background-color: chartreuse;
+}
